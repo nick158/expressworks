@@ -1,3 +1,5 @@
+//respond to get request with static hosted index.html
+//html is css styled with stylus
 var express = require('express');
 var path = require('path');
 var stylus = require('stylus');

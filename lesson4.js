@@ -1,3 +1,5 @@
+//post request with encoded form.
+//extracts the input of the form and responds wiht it reversed
 var path = require('path');
 var express = require("express");
 //allows for the parsing of form request bodies

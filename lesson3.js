@@ -1,3 +1,4 @@
+//uses jade templating to display a date
 var path = require('path');
 var express = require('express');
 
